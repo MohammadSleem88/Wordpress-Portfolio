@@ -1,2 +1,2 @@
-# Wordpress-Protfolio
+# Wordpress-portfolio
 Wordpress Protfolio Projects
